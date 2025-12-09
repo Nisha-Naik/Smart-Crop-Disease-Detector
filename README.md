@@ -294,6 +294,37 @@ http://localhost:3000
 
 ---
 
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+
+<img width="1910" height="920" alt="image" src="https://github.com/user-attachments/assets/e5052013-f1f5-4dbb-8f4a-f3e6f7d53fd9" />
+
+### 📤 Upload Image Screen
+
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/adbcfb67-c04e-4113-8c1d-ebf4ac9a8f6d" />
+
+### 🤖 AI Analyzing Screen
+
+<img width="1919" height="784" alt="image" src="https://github.com/user-attachments/assets/53fd6ec1-1990-41e0-9a2e-fd201cc78c02" />
+
+
+### 📊 Disease Detection Result
+
+<img width="1879" height="899" alt="image" src="https://github.com/user-attachments/assets/e6068cfb-4c6c-447a-9a95-43384ece811b" />
+
+
+### 💊 Medicine Recommendation
+
+<img width="1822" height="917" alt="image" src="https://github.com/user-attachments/assets/f2c1de5a-14e9-4413-8d99-83feaca42f88" />
+
+
+### 🔁 Analysis History
+
+<img width="1893" height="906" alt="image" src="https://github.com/user-attachments/assets/6cb256f9-449a-43ae-8a3a-3a60e0c28e00" />
+
+---
+
 
 ## 🌱 Future Enhancements
 
