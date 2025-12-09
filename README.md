@@ -353,7 +353,7 @@ http://localhost:3000
 
 
 ## 👩‍💻 Developer
-Nisha Naik
+Nisha Naik, Nithin R
 
 AI Developer • Full-Stack Engineer • Next.js Specialist
 Top 6 Finalist – Ekaiva 2025 Hackathon
