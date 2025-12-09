@@ -217,6 +217,8 @@ This script is perfect for hackathon presentations.
 ---
 
 ## 📂 Project Structure (High-Level)
+
+```
 smart-crop-sentinel/
 │
 ├─ public/
@@ -242,6 +244,8 @@ smart-crop-sentinel/
 ├─ tailwind.config.ts
 ├─ postcss.config.mjs
 └─ README.md
+
+```
 
 ---
 
