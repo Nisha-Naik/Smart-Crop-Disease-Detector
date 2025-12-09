@@ -249,3 +249,46 @@ smart-crop-sentinel/
 
 ---
 
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone Repo
+```bash
+git clone https://github.com/<your-username>/smart-crop-sentinel.git
+cd smart-crop-sentinel
+
+```
+
+### 2️⃣ Install Dependencies
+```bash
+npm install
+
+
+```
+
+### 3️⃣ Configure Environment
+```bash
+
+Create .env.local:
+
+
+AI_IMAGE_ANALYSIS_ENDPOINT=...
+AI_SOLUTION_RECOMMENDATION_ENDPOINT=...
+AI_TRANSLATION_ENDPOINT=...
+AI_API_KEY=...
+
+
+```
+
+###4️⃣ Run Development Server
+```bash
+npm run dev
+
+```
+
+
+Visit:
+http://localhost:3000
+
