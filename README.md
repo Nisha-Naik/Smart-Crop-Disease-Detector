@@ -292,3 +292,35 @@ npm run dev
 Visit:
 http://localhost:3000
 
+---
+
+
+## 🌱 Future Enhancements
+
+- 🤖 AI-powered voice assistant for farmers  
+- 🛰️ Satellite + weather-based disease prediction  
+- 🧪 Soil health & nutrient deficiency analyzer  
+- 📡 Offline on-device AI model (ONNX Mobile)  
+- 🛒 Direct integration with marketplaces (BigHaat, Agribegri APIs)  
+- 🗣️ Full multilingual voice output (Kannada, Tamil, Telugu, Hindi)  
+- 🌱 Auto dosage calculator based on crop age & area  
+- 📱 WhatsApp / SMS alert system for severe disease warnings  
+- 🧭 Farmer dashboard with season-wise analytics  
+- 🔐 Secure farmer login & cloud-based history storage  
+- 🧫 Multi-crop disease expansion (20+ crop classes)
+
+  
+---
+
+
+## 👩‍💻 Developer
+Nisha Naik
+
+AI Developer • Full-Stack Engineer • Next.js Specialist
+Top 6 Finalist – Ekaiva 2025 Hackathon
+
+For collaborations or opportunities, feel free to reach out!
+
+
+---
+
