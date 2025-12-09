@@ -313,11 +313,19 @@ http://localhost:3000
 
 <img width="1879" height="899" alt="image" src="https://github.com/user-attachments/assets/e6068cfb-4c6c-447a-9a95-43384ece811b" />
 
+### 🌍 Multilanguage Translation  
+<img width="1869" height="895" alt="image" src="https://github.com/user-attachments/assets/3cbb6dd7-b86d-4483-a906-98879cab76f4" />
+
+<img width="1895" height="891" alt="image" src="https://github.com/user-attachments/assets/2682e783-19b7-4f3f-8f09-d8da70805bd1" />
 
 ### 💊 Medicine Recommendation
 
 <img width="1822" height="917" alt="image" src="https://github.com/user-attachments/assets/f2c1de5a-14e9-4413-8d99-83feaca42f88" />
 
+### 🛒 Search to Buy Option  
+<img width="1728" height="887" alt="image" src="https://github.com/user-attachments/assets/52f0091c-7a10-41f3-9d8d-b7e075feba4b" />
+<img width="1910" height="900" alt="image" src="https://github.com/user-attachments/assets/a1234f57-66cd-4b2d-bfda-986d0a6384fc" />
+<img width="1904" height="875" alt="image" src="https://github.com/user-attachments/assets/56122f3e-aa09-44a1-a95e-c123f67e7c76" />
 
 ### 🔁 Analysis History
 
