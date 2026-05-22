@@ -45,11 +45,7 @@ Upload a leaf → AI predicts:
 ---
 
 ### 📊 Rich Disease Summary Card
-Includes:
-- Crop & scientific name  
-- Accuracy visual bar  
-- Severity color indicator  
-- Spread rate indicator  
+
 
 ---
 
